@@ -29,13 +29,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeynepersen&show_icons=true&locale=en&layout=compact" alt="zeynepersen" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilarakocaman&show_icons=true&locale=en&layout=compact" alt="dilarakocaman" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeynepersen&show_icons=true&locale=en" alt="zeynepersen" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dilarakocaman&show_icons=true&locale=en" alt="dilarakocaman" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepersen&" alt="zeynepersen" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilarakocaman&" alt="dilarakocaman" />
 </p>
