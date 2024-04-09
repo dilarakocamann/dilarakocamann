@@ -12,7 +12,7 @@
 
 <p align="center">
   <h3>Connect with me:</h3>
-  <a href="https://www.dilarakocaman.com/" target="blank"><img align="center" src="[https://github.com/dilarakocamann/DK/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-04-09%20125336.png]" alt="DK" height="30" width="40" /></a>
+  <a href="https://www.dilarakocaman.com/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Black/WWW_black.svg" alt="DK" height="30" width="40" /></a>
   <a href="https://www.instagram.com/dilaaraakocaman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilaaraakocaman" height="30" width="40" /></a>
   <a href="https://medium.com/@zeynepnazersen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zeynepnazersen" height="30" width="40" /></a>
 </p>
