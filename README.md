@@ -1,4 +1,4 @@
-<h1 align="center">print("Hey! I'm Dilara") </h1>
+<h1 align="center">print("Hey, I'm Dilara!") </h1>
 
 
 <p align="center">
