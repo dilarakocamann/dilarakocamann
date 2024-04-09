@@ -1,5 +1,4 @@
 <h1 align="center">Hey! I'm Dilara KOCAMAN </h1>
-<h3 align="center">Senior Learner / Just a Software Developer</h3>
 
 
 <p align="center">
