@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilarakocaman&show_icons=true&locale=en" alt="dilarakocaman" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dilarakocaman&show_icons=true&locale=en" alt="Dilara" />
 </p>
 
 <p align="center">
