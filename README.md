@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img width="500" height="300" src="https://www.odinschool.com/hubfs/Imported_Blog_Media/giphy-Aug-30-2021-08-36-20-58-AM.gif">
+  <img width="500" height="300" src="https://i.pinimg.com/originals/cc/32/99/cc3299350f3d91327d4a8922ecae8fb8.gif">
 </p>
 
 - 🔭 I’m currently working on **Artificial Intelligence and Back-end Developing**
