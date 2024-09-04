@@ -5,8 +5,8 @@
   <img width="500" height="300" src="https://i.pinimg.com/originals/cc/32/99/cc3299350f3d91327d4a8922ecae8fb8.gif">
 </p>
 
-- 🔭 I’m currently working on **Artificial Intelligence and Website Developing**
-- 👯 I’m looking to collaborate on **Artificial Intelligence and Website Developing Projects**
+- 🔭 I’m currently working on **Artificial Intelligence and Full-Stack Development**
+- 👯 I’m looking to collaborate on **Artificial Intelligence and Full-Stack Development Projects**
 - 📫 How to reach me **dilaraakcmn@gmail.com**
 
 <p align="center">
